@@ -1,2 +1,2 @@
 # LearningGit
-Creating First Project in GIT for learning ho git works
+Creating First Project in GIT for learning how git works
